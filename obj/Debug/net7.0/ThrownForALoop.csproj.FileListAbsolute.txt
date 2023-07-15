@@ -1,0 +1,15 @@
+C:\Users\ahamm\csharp\ThrownForALoop\bin\Debug\net7.0\ThrownForALoop.exe
+C:\Users\ahamm\csharp\ThrownForALoop\bin\Debug\net7.0\ThrownForALoop.deps.json
+C:\Users\ahamm\csharp\ThrownForALoop\bin\Debug\net7.0\ThrownForALoop.runtimeconfig.json
+C:\Users\ahamm\csharp\ThrownForALoop\bin\Debug\net7.0\ThrownForALoop.dll
+C:\Users\ahamm\csharp\ThrownForALoop\bin\Debug\net7.0\ThrownForALoop.pdb
+C:\Users\ahamm\csharp\ThrownForALoop\obj\Debug\net7.0\ThrownForALoop.csproj.AssemblyReference.cache
+C:\Users\ahamm\csharp\ThrownForALoop\obj\Debug\net7.0\ThrownForALoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahamm\csharp\ThrownForALoop\obj\Debug\net7.0\ThrownForALoop.AssemblyInfoInputs.cache
+C:\Users\ahamm\csharp\ThrownForALoop\obj\Debug\net7.0\ThrownForALoop.AssemblyInfo.cs
+C:\Users\ahamm\csharp\ThrownForALoop\obj\Debug\net7.0\ThrownForALoop.csproj.CoreCompileInputs.cache
+C:\Users\ahamm\csharp\ThrownForALoop\obj\Debug\net7.0\ThrownForALoop.dll
+C:\Users\ahamm\csharp\ThrownForALoop\obj\Debug\net7.0\refint\ThrownForALoop.dll
+C:\Users\ahamm\csharp\ThrownForALoop\obj\Debug\net7.0\ThrownForALoop.pdb
+C:\Users\ahamm\csharp\ThrownForALoop\obj\Debug\net7.0\ThrownForALoop.genruntimeconfig.cache
+C:\Users\ahamm\csharp\ThrownForALoop\obj\Debug\net7.0\ref\ThrownForALoop.dll
